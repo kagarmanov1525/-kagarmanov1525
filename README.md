@@ -9,7 +9,7 @@
 **Python**, **Pandas**, **Numpy**, **SQL** (оконные функции, функции, триггеры),  Seaborn, Matplotlib, PostgreSQL, psycopg2, Scikit-Learn, LightGBM, CatBoost, XGBoost, RandomForest, Linear models, DBSCAN, K-means, регрессия, классификация, валидация, метрики, калибровка, выбросы, временные ряды, Agile, VSCode, JupiterNotebook, GoogleColab, DBeaver
 
 #### Есть опыт:
-Git, Json, A/B-тестирование, HTML, Docker, PyTorch, NLP, Selenium, BeautifulSoup4, Requests, PyCharm
+Git, Json, A/B-тест, HTML, Docker, PyTorch, NLP, Selenium, BeautifulSoup4, Requests, PyCharm
 
 #### Мои проекты
 |Название проекта| Описание проекта| Стек|
