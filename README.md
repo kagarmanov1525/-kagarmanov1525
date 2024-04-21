@@ -15,8 +15,8 @@ Git, Flask, Json, A/B-тест, HTML, Docker, PyTorch, NLP, Selenium, BeautifulS
 ### Мои проекты
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Чемпионат по прогнозированию 8/150. **Разработка ML-модели предсказывающий потенциальный статус студента**  (__[github](https://github.com/kagarmanov1525/Digital-breakthrough-the-championship-2022-Altai)__)|классификация, EDA, feature selection, тюнинг гиперпараметров, дисбаланс классов, стэккинг моделей, кросс-валидация, тест, |pandas, seaborn, matplotlib, dataprep, scikit-learn, CatBoost, LightGBM, XGBoost|
-|Чемпионат по прогнозированию 16/150. **Разработка математической модели прогнозирования заболевания населения**  (__[github](https://github.com/kagarmanov1525/Digital-breakthrough-the-championship-2022-Tula)__)|регрессия, EDA, feature selection, тюнинг гиперпараметров, стэккинг моделей, кросс-валидация, тест, временные ряды|pandas, seaborn, matplotlib, scikit-learn, LightGBM, RandomForest, ExtraTrees|
+|Чемпионат по прогнозированию 8(1)/150. **Разработка ML-модели предсказывающий потенциальный статус студента**  (__[github](https://github.com/kagarmanov1525/Digital-breakthrough-the-championship-2022-Altai)__)|классификация, EDA, feature selection, тюнинг гиперпараметров, дисбаланс классов, стэккинг моделей, кросс-валидация, тест, |pandas, seaborn, matplotlib, dataprep, scikit-learn, CatBoost, LightGBM, XGBoost|
+|Чемпионат по прогнозированию 16(8)/150. **Разработка математической модели прогнозирования заболевания населения**  (__[github](https://github.com/kagarmanov1525/Digital-breakthrough-the-championship-2022-Tula)__)|регрессия, EDA, feature selection, тюнинг гиперпараметров, стэккинг моделей, кросс-валидация, тест, временные ряды|pandas, seaborn, matplotlib, scikit-learn, LightGBM, RandomForest, ExtraTrees|
 
 #### Сертификаты и благодарности:
 [Тут](https://github.com/kagarmanov1525/kagarmanov1525.git)
