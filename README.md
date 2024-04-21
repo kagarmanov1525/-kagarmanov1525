@@ -15,6 +15,8 @@ Git, Flask, Json, A/B-тест, HTML, Docker, PyTorch, NLP, Selenium, BeautifulS
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 
+#### Сертификаты и благодарности:
+[Тут](https://github.com/kagarmanov1525/kagarmanov1525.git)
 
 #### Контакты:
 [Telegram](https://t.me/erikkagarmanov)
