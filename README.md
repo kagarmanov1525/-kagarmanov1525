@@ -7,10 +7,10 @@
 По необходимости расширяю стек. Имею высшее инженерное и экономическое образование.
 
 #### Практикую:
-**Python**, **Pandas**, **Numpy**, **SQL**, PostgreSQL, psycopg2, Scipy, Seaborn, Matplotlib,  Scikit-Learn, LightGBM, CatBoost, XGBoost, RandomForest, Linear models, DBSCAN, K-means, регрессия, классификация, валидация, метрики, калибровка, выбросы, временные ряды, openpyxl, networkx, Agile, VSCode, JupiterNotebook, GoogleColab, DBeaver
+**Python**, **Pandas**, **Numpy**, **SQL**, PostgreSQL, psycopg2, Scipy, Seaborn, Matplotlib,  Scikit-Learn, LightGBM, CatBoost, XGBoost, RandomForest, Linear models, DBSCAN, K-means, регрессия, классификация, валидация, метрики, калибровка, выбросы, временные ряды, Agile, VSCode, JupiterNotebook, GoogleColab, DBeaver
 
 #### Есть опыт:
-Git, Flask, Json, A/B-тест, HTML, Docker, PyTorch, NLP, Selenium, BeautifulSoup4, Requests, PyCharm
+Git, Flask, Json, A/B-тест, HTML, Docker, PyTorch, NLP,  openpyxl, networkx, Selenium, BeautifulSoup4, Requests, PyCharm
 
 ### Мои проекты
 |Название проекта| Описание проекта| Стек|
